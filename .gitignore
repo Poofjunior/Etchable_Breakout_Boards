@@ -1,0 +1,8 @@
+# Ignore pretty much everything:
+*
+
+# Except for these files:
+!SingleBoardVersion.brd
+!SingleBoardVersion.sch
+!README.md
+

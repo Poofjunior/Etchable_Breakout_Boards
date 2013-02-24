@@ -1,5 +1,7 @@
 # DS3234 Etchable Breakout Board
 
+[The mirrored brd file transferred to vinyl](images/toner.jpg)
+
 ## Basic Info  
   This board is a simple breakout board for the DS3234 Real Time Clock chip,
 heavily inspired by the breakout board provided by Sparkfun.
